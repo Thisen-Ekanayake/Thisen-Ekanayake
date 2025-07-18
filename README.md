@@ -35,8 +35,8 @@
 
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisen-ekanayake&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=thisen-ekanayake&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=thisen-ekanayake&theme=algolia" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisen-ekanayake&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=thisen-ekanayake&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thisen-ekanayake&theme=algolia" alt="GitHub Streak" />
 </p>
 
