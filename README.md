@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thisen Ekanayake</h1>
+<h1 align="center">Hi ✨, I'm Thisen Ekanayake</h1>
 <h3 align="center">Curious about intelligence - Natural & Artificial. I write code to understand systems, and words to understand myself</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisen-ekanayake&theme=algolia" alt="thisen-ekanayake" /></a> </p><br>
