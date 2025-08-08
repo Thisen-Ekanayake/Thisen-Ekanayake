@@ -1,8 +1,6 @@
 <h1 align="center">Hi ✨, I'm Thisen Ekanayake</h1>
 <h3 align="center">Curious about intelligence - Natural & Artificial. I write code to understand systems, and words to understand myself</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisen-ekanayake&theme=algolia" alt="thisen-ekanayake" /></a> </p><br>
-
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -36,7 +34,6 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisen-ekanayake&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=thisen-ekanayake&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thisen-ekanayake&theme=algolia" alt="GitHub Streak" />
 </p>
 
