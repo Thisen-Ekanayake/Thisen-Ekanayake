@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨, I'm Thisen Ekanayake</h1>
-<h3 align="center">Curious about intelligence - Natural & Artificial. I write code to understand systems, and words to understand myself</h3>
+<h4 align="center">Curious about intelligence - Natural & Artificial. I write code to understand systems, and words to understand myself</h4>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
