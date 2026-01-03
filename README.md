@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p><br><br>
 
-
+<!--
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisen-ekanayake&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thisen-ekanayake&theme=algolia" alt="GitHub Streak" />
 </p>
-
+-->
